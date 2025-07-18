@@ -25,3 +25,5 @@ This is a simple real-time face detection project built using **Python** and **O
 ```bash
 git clone https://github.com/sai-hrushita-kolachina/face_detection.git
 cd face_detection
+pip install opencv-python
+python facedetection.py
