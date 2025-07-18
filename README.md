@@ -5,7 +5,7 @@ This is a simple real-time face detection project built using **Python** and **O
 ---
 
 ##  Technologies Used
-- Python 3.x
+- Python 
 - OpenCV (`cv2`)
 - Haar Cascade Classifier (from OpenCV library)
 
